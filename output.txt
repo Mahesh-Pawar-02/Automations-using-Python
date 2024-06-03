@@ -1,0 +1,20 @@
+--------------------------------------------------
+----------------Directory Watcher-----------------
+--------------------------------------------------
+Path is not absolute path
+Converted absolute path is :  C:\Users\mahes\OneDrive\Desktop\Python-Programming\Automations-using-Python\study
+Unable to perform the task due to cannot access local variable 'Count' where it is not associated with a value
+--------------------------------------------------
+---------Thank You for using our script-----------
+------------created by Mahesh Pawar---------------
+--------------------------------------------------
+--------------------------------------------------
+----------------Directory Watcher-----------------
+--------------------------------------------------
+Path is not absolute path
+Converted absolute path is :  C:\Users\mahes\OneDrive\Desktop\Python-Programming\Automations-using-Python\study
+Unable to perform the task due to cannot access local variable 'Count' where it is not associated with a value
+--------------------------------------------------
+---------Thank You for using our script-----------
+------------created by Mahesh Pawar---------------
+--------------------------------------------------
