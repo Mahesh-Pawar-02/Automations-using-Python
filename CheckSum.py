@@ -1,3 +1,6 @@
+
+# Automation script which accept directory name from user and display all names & checksum of files from that directory.
+
 from sys import *
 import os
 import hashlib

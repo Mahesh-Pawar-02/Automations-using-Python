@@ -11,7 +11,7 @@ def CreateLog(FileName = "Marvellous.log"):
     fd.write("Log file created at : " + time.ctime() + "\n")
     fd.write(separator + "\n")
 
-    fd.write("CONTENTS OF LOG FILR" + "\n")
+    fd.write("CONTENTS OF LOG FILE" + "\n")
     fd.write(separator + "\n")
 
     fd.close()
