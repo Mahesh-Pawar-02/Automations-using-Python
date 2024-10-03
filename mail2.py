@@ -16,7 +16,7 @@ def is_connected():
     
 def MailSender():
     try:
-        fromaddr = "try.web.new@gmail.com"
+        fromaddr = "..........@gmail.com"
         toaddr = "maheshpawar30627@gmail.com"
         
         msg = MIMEMultipart()
